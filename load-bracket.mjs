@@ -73,7 +73,14 @@ const matchupInfo = await Promise.all(
       .toArray()
       .map((el) => {
         const schedule = matchupRoot(el).find('a.AnchorLink').attr('href');
-        return {schedule, id: schedule?.split?.('/')?.pop()};
+        const id = schedule?.split?.('/')?.pop();
+        const idInt = parseInt(id, 10);
+
+        if (id !== undefined && typeof idInt !== 'number') {
+          throw new Error(`Could not parse id of ${id}`);
+        }
+
+        return {schedule, id: idInt};
       });
 
     return teamNameAndRank.map((team, index) => {
@@ -87,7 +94,7 @@ const allTeams = matchupInfo.reduce((soFar, matchup) => {
 }, []);
 
 const allTeamsWithStatus = await Promise.all(
-  allTeams.slice(0, 1).map(async (team) => {
+  allTeams.map(async (team) => {
     const schedulePage = await fetch(team.schedule, {
       headers: {
         accept:
@@ -144,24 +151,60 @@ const allTeamsWithStatus = await Promise.all(
             return {...soFar, ...(index === 0 ? {first: scoreInt} : {second: scoreInt})};
           }, {});
 
-        return {isVictory, ...scores};
+        const opponentLink = scheduleRoot(resultCells.opponentCell).find('a').last();
+        const opponentName = opponentLink.text().trim();
+        const opponentHref = opponentLink.attr('href');
+        const opponentId = opponentHref?.split('/')?.slice(-2, -1).pop();
+
+        const opponentIdInt = parseInt(opponentId, 10);
+
+        if (opponentId !== undefined && typeof opponentIdInt !== 'number') {
+          throw new Error(`Could not parse id of ${opponentId}`);
+        }
+
+        return {isVictory, ...scores, opponentName, opponentId: opponentIdInt};
       })
       .map((result) => {
         const ourScore = result.first > result.second && result.isVictory ? result.first : result.second;
         const theirScore = result.first > result.second && !result.isVictory ? result.first : result.second;
 
         return {
+          ...result,
           ourScore,
           theirScore
         };
-      });
+      })
+      .filter((result) => {
+        return !!allTeams.find((team) => team.id === result.opponentId);
+      })
+      .reduce(
+        (soFar, result) => {
+          return {
+            tournamentTeamsPlayed: soFar.tournamentTeamsPlayed + 1,
+            tournamentTeamsDefeated: result.isVictory
+              ? soFar.tournamentTeamsDefeated + 1
+              : soFar.tournamentTeamsDefeated,
+            tournamentTeamsPointDifferential:
+              soFar.tournamentTeamsPointDifferential + (result.ourScore - result.theirScore),
+            tournamentTeamsResultsLog: [...soFar.tournamentTeamsResultsLog, result]
+          };
+        },
+        {
+          tournamentTeamsPlayed: 0,
+          tournamentTeamsDefeated: 0,
+          tournamentTeamsPointDifferential: 0,
+          tournamentTeamsResultsLog: []
+        }
+      );
 
-    console.log(team);
-    console.log(scores);
+    return {
+      ...team,
+      ...scores
+    };
   })
 );
 
-// console.log(allTeams);
+console.log(JSON.stringify(allTeamsWithStatus));
 /*
   .map((el) => {
     return el.attribs['href'];
