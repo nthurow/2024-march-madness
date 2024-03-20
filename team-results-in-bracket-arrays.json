@@ -1398,1419 +1398,6 @@
   ],
   [
     [
-      {
-        "rank": 16,
-        "name": "Longwood Lancers",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2344",
-        "id": 2344,
-        "tournamentTeamsPlayed": 1,
-        "tournamentTeamsDefeated": 0,
-        "tournamentTeamsPointDifferential": -9,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 78,
-            "second": 69,
-            "opponentName": "Dayton",
-            "opponentId": 2168,
-            "ourScore": 69,
-            "theirScore": 78
-          }
-        ]
-      },
-      {
-        "rank": 1,
-        "name": "Houston Cougars",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/248",
-        "id": 248,
-        "tournamentTeamsPlayed": 16,
-        "tournamentTeamsDefeated": 12,
-        "tournamentTeamsPointDifferential": 140,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 79,
-            "second": 48,
-            "opponentName": "Stetson",
-            "opponentId": 56,
-            "ourScore": 79,
-            "theirScore": 48
-          },
-          {
-            "isVictory": true,
-            "first": 69,
-            "second": 55,
-            "opponentName": "Dayton",
-            "opponentId": 2168,
-            "ourScore": 69,
-            "theirScore": 55
-          },
-          {
-            "isVictory": true,
-            "first": 70,
-            "second": 66,
-            "opponentName": "Texas A&M",
-            "opponentId": 245,
-            "ourScore": 70,
-            "theirScore": 66
-          },
-          {
-            "isVictory": false,
-            "first": 57,
-            "second": 53,
-            "opponentName": "Iowa State",
-            "opponentId": 66,
-            "ourScore": 53,
-            "theirScore": 57
-          },
-          {
-            "isVictory": false,
-            "first": 68,
-            "second": 67,
-            "opponentName": "TCU",
-            "opponentId": 2628,
-            "ourScore": 67,
-            "theirScore": 68
-          },
-          {
-            "isVictory": true,
-            "first": 77,
-            "second": 54,
-            "opponentName": "Texas Tech",
-            "opponentId": 2641,
-            "ourScore": 77,
-            "theirScore": 54
-          },
-          {
-            "isVictory": true,
-            "first": 75,
-            "second": 68,
-            "opponentName": "BYU",
-            "opponentId": 252,
-            "ourScore": 75,
-            "theirScore": 68
-          },
-          {
-            "isVictory": true,
-            "first": 76,
-            "second": 72,
-            "opponentName": "Texas",
-            "opponentId": 251,
-            "ourScore": 76,
-            "theirScore": 72
-          },
-          {
-            "isVictory": false,
-            "first": 78,
-            "second": 65,
-            "opponentName": "Kansas",
-            "opponentId": 2305,
-            "ourScore": 65,
-            "theirScore": 78
-          },
-          {
-            "isVictory": true,
-            "first": 82,
-            "second": 61,
-            "opponentName": "Texas",
-            "opponentId": 251,
-            "ourScore": 82,
-            "theirScore": 61
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 65,
-            "opponentName": "Iowa State",
-            "opponentId": 66,
-            "ourScore": 73,
-            "theirScore": 65
-          },
-          {
-            "isVictory": true,
-            "first": 82,
-            "second": 76,
-            "opponentName": "Baylor",
-            "opponentId": 239,
-            "ourScore": 82,
-            "theirScore": 76
-          },
-          {
-            "isVictory": true,
-            "first": 76,
-            "second": 46,
-            "opponentName": "Kansas",
-            "opponentId": 2305,
-            "ourScore": 76,
-            "theirScore": 46
-          },
-          {
-            "isVictory": true,
-            "first": 60,
-            "second": 45,
-            "opponentName": "TCU",
-            "opponentId": 2628,
-            "ourScore": 60,
-            "theirScore": 45
-          },
-          {
-            "isVictory": true,
-            "first": 82,
-            "second": 59,
-            "opponentName": "Texas Tech",
-            "opponentId": 2641,
-            "ourScore": 82,
-            "theirScore": 59
-          },
-          {
-            "isVictory": false,
-            "first": 69,
-            "second": 41,
-            "opponentName": "Iowa State",
-            "opponentId": 66,
-            "ourScore": 41,
-            "theirScore": 69
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "rank": 9,
-        "name": "Texas A&M Aggies",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/245",
-        "id": 245,
-        "tournamentTeamsPlayed": 14,
-        "tournamentTeamsDefeated": 6,
-        "tournamentTeamsPointDifferential": -59,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 96,
-            "second": 89,
-            "opponentName": "Florida Atlantic",
-            "opponentId": 2226,
-            "ourScore": 89,
-            "theirScore": 96
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 69,
-            "opponentName": "Iowa State",
-            "opponentId": 66,
-            "ourScore": 73,
-            "theirScore": 69
-          },
-          {
-            "isVictory": false,
-            "first": 59,
-            "second": 47,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 47,
-            "theirScore": 59
-          },
-          {
-            "isVictory": false,
-            "first": 70,
-            "second": 66,
-            "opponentName": "Houston",
-            "opponentId": 248,
-            "ourScore": 66,
-            "theirScore": 70
-          },
-          {
-            "isVictory": false,
-            "first": 66,
-            "second": 55,
-            "opponentName": "Auburn",
-            "opponentId": 2,
-            "ourScore": 55,
-            "theirScore": 66
-          },
-          {
-            "isVictory": true,
-            "first": 97,
-            "second": 92,
-            "opponentName": "Kentucky",
-            "opponentId": 96,
-            "ourScore": 97,
-            "theirScore": 92
-          },
-          {
-            "isVictory": true,
-            "first": 67,
-            "second": 66,
-            "opponentName": "Florida",
-            "opponentId": 57,
-            "ourScore": 67,
-            "theirScore": 66
-          },
-          {
-            "isVictory": true,
-            "first": 85,
-            "second": 69,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 85,
-            "theirScore": 69
-          },
-          {
-            "isVictory": false,
-            "first": 100,
-            "second": 75,
-            "opponentName": "Alabama",
-            "opponentId": 333,
-            "ourScore": 75,
-            "theirScore": 100
-          },
-          {
-            "isVictory": false,
-            "first": 86,
-            "second": 51,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 51,
-            "theirScore": 86
-          },
-          {
-            "isVictory": false,
-            "first": 70,
-            "second": 68,
-            "opponentName": "South Carolina",
-            "opponentId": 2579,
-            "ourScore": 68,
-            "theirScore": 70
-          },
-          {
-            "isVictory": true,
-            "first": 75,
-            "second": 69,
-            "opponentName": "Mississippi State",
-            "opponentId": 344,
-            "ourScore": 75,
-            "theirScore": 69
-          },
-          {
-            "isVictory": true,
-            "first": 97,
-            "second": 87,
-            "opponentName": "Kentucky",
-            "opponentId": 96,
-            "ourScore": 97,
-            "theirScore": 87
-          },
-          {
-            "isVictory": false,
-            "first": 95,
-            "second": 90,
-            "opponentName": "Florida",
-            "opponentId": 57,
-            "ourScore": 90,
-            "theirScore": 95
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "name": "Nebraska Cornhuskers",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/158",
-        "id": 158,
-        "tournamentTeamsPlayed": 10,
-        "tournamentTeamsDefeated": 5,
-        "tournamentTeamsPointDifferential": -24,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 89,
-            "second": 79,
-            "opponentName": "Duquesne",
-            "opponentId": 2184,
-            "ourScore": 89,
-            "theirScore": 79
-          },
-          {
-            "isVictory": false,
-            "first": 89,
-            "second": 60,
-            "opponentName": "Creighton",
-            "opponentId": 156,
-            "ourScore": 60,
-            "theirScore": 89
-          },
-          {
-            "isVictory": true,
-            "first": 77,
-            "second": 70,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 77,
-            "theirScore": 70
-          },
-          {
-            "isVictory": false,
-            "first": 88,
-            "second": 72,
-            "opponentName": "Wisconsin",
-            "opponentId": 275,
-            "ourScore": 72,
-            "theirScore": 88
-          },
-          {
-            "isVictory": true,
-            "first": 88,
-            "second": 72,
-            "opponentName": "Purdue",
-            "opponentId": 2509,
-            "ourScore": 88,
-            "theirScore": 72
-          },
-          {
-            "isVictory": true,
-            "first": 75,
-            "second": 69,
-            "opponentName": "Northwestern",
-            "opponentId": 77,
-            "ourScore": 75,
-            "theirScore": 69
-          },
-          {
-            "isVictory": true,
-            "first": 80,
-            "second": 72,
-            "opponentName": "Wisconsin",
-            "opponentId": 275,
-            "ourScore": 80,
-            "theirScore": 72
-          },
-          {
-            "isVictory": false,
-            "first": 87,
-            "second": 84,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 84,
-            "theirScore": 87
-          },
-          {
-            "isVictory": false,
-            "first": 80,
-            "second": 68,
-            "opponentName": "Northwestern",
-            "opponentId": 77,
-            "ourScore": 68,
-            "theirScore": 80
-          },
-          {
-            "isVictory": false,
-            "first": 98,
-            "second": 87,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 87,
-            "theirScore": 98
-          }
-        ]
-      }
-    ]
-  ],
-  [
-    [
-      {
-        "rank": 12,
-        "name": "James Madison Dukes",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/256",
-        "id": 256,
-        "tournamentTeamsPlayed": 2,
-        "tournamentTeamsDefeated": 2,
-        "tournamentTeamsPointDifferential": 17,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 79,
-            "second": 76,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 79,
-            "theirScore": 76
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 59,
-            "opponentName": "Akron",
-            "opponentId": 2006,
-            "ourScore": 73,
-            "theirScore": 59
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "name": "Wisconsin Badgers",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/275",
-        "id": 275,
-        "tournamentTeamsPlayed": 15,
-        "tournamentTeamsDefeated": 8,
-        "tournamentTeamsPointDifferential": 26,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 80,
-            "second": 70,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 70,
-            "theirScore": 80
-          },
-          {
-            "isVictory": true,
-            "first": 65,
-            "second": 41,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 65,
-            "theirScore": 41
-          },
-          {
-            "isVictory": true,
-            "first": 75,
-            "second": 64,
-            "opponentName": "Marquette",
-            "opponentId": 269,
-            "ourScore": 75,
-            "theirScore": 64
-          },
-          {
-            "isVictory": true,
-            "first": 70,
-            "second": 57,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 70,
-            "theirScore": 57
-          },
-          {
-            "isVictory": false,
-            "first": 98,
-            "second": 73,
-            "opponentName": "Arizona",
-            "opponentId": 12,
-            "ourScore": 73,
-            "theirScore": 98
-          },
-          {
-            "isVictory": true,
-            "first": 88,
-            "second": 72,
-            "opponentName": "Nebraska",
-            "opponentId": 158,
-            "ourScore": 88,
-            "theirScore": 72
-          },
-          {
-            "isVictory": true,
-            "first": 71,
-            "second": 63,
-            "opponentName": "Northwestern",
-            "opponentId": 77,
-            "ourScore": 71,
-            "theirScore": 63
-          },
-          {
-            "isVictory": true,
-            "first": 81,
-            "second": 66,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 81,
-            "theirScore": 66
-          },
-          {
-            "isVictory": false,
-            "first": 80,
-            "second": 72,
-            "opponentName": "Nebraska",
-            "opponentId": 158,
-            "ourScore": 72,
-            "theirScore": 80
-          },
-          {
-            "isVictory": false,
-            "first": 75,
-            "second": 69,
-            "opponentName": "Purdue",
-            "opponentId": 2509,
-            "ourScore": 69,
-            "theirScore": 75
-          },
-          {
-            "isVictory": false,
-            "first": 91,
-            "second": 83,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 83,
-            "theirScore": 91
-          },
-          {
-            "isVictory": false,
-            "first": 78,
-            "second": 70,
-            "opponentName": "Purdue",
-            "opponentId": 2509,
-            "ourScore": 70,
-            "theirScore": 78
-          },
-          {
-            "isVictory": true,
-            "first": 70,
-            "second": 61,
-            "opponentName": "Northwestern",
-            "opponentId": 77,
-            "ourScore": 70,
-            "theirScore": 61
-          },
-          {
-            "isVictory": true,
-            "first": 76,
-            "second": 75,
-            "opponentName": "Purdue",
-            "opponentId": 2509,
-            "ourScore": 76,
-            "theirScore": 75
-          },
-          {
-            "isVictory": false,
-            "first": 93,
-            "second": 87,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 87,
-            "theirScore": 93
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "rank": 13,
-        "name": "Vermont Catamounts",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/261",
-        "id": 261,
-        "tournamentTeamsPlayed": 3,
-        "tournamentTeamsDefeated": 2,
-        "tournamentTeamsPointDifferential": 4,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 64,
-            "opponentName": "Charleston",
-            "opponentId": 232,
-            "ourScore": 73,
-            "theirScore": 64
-          },
-          {
-            "isVictory": true,
-            "first": 66,
-            "second": 65,
-            "opponentName": "Yale",
-            "opponentId": 43,
-            "ourScore": 66,
-            "theirScore": 65
-          },
-          {
-            "isVictory": false,
-            "first": 77,
-            "second": 71,
-            "opponentName": "Colgate",
-            "opponentId": 2142,
-            "ourScore": 71,
-            "theirScore": 77
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "name": "Duke Blue Devils",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/150",
-        "id": 150,
-        "tournamentTeamsPlayed": 9,
-        "tournamentTeamsDefeated": 5,
-        "tournamentTeamsPointDifferential": 34,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 78,
-            "second": 73,
-            "opponentName": "Arizona",
-            "opponentId": 12,
-            "ourScore": 73,
-            "theirScore": 78
-          },
-          {
-            "isVictory": true,
-            "first": 74,
-            "second": 65,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 74,
-            "theirScore": 65
-          },
-          {
-            "isVictory": true,
-            "first": 78,
-            "second": 70,
-            "opponentName": "Baylor",
-            "opponentId": 239,
-            "ourScore": 78,
-            "theirScore": 70
-          },
-          {
-            "isVictory": true,
-            "first": 72,
-            "second": 71,
-            "opponentName": "Clemson",
-            "opponentId": 228,
-            "ourScore": 72,
-            "theirScore": 71
-          },
-          {
-            "isVictory": false,
-            "first": 93,
-            "second": 84,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 84,
-            "theirScore": 93
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 48,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 73,
-            "theirScore": 48
-          },
-          {
-            "isVictory": true,
-            "first": 79,
-            "second": 64,
-            "opponentName": "NC State",
-            "opponentId": 152,
-            "ourScore": 79,
-            "theirScore": 64
-          },
-          {
-            "isVictory": false,
-            "first": 84,
-            "second": 79,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 79,
-            "theirScore": 84
-          },
-          {
-            "isVictory": false,
-            "first": 74,
-            "second": 69,
-            "opponentName": "NC State",
-            "opponentId": 152,
-            "ourScore": 69,
-            "theirScore": 74
-          }
-        ]
-      }
-    ]
-  ],
-  [
-    [
-      {
-        "rank": 11,
-        "name": "NC State Wolfpack",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/152",
-        "id": 152,
-        "tournamentTeamsPlayed": 11,
-        "tournamentTeamsDefeated": 5,
-        "tournamentTeamsPointDifferential": -23,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 95,
-            "second": 86,
-            "opponentName": "BYU",
-            "opponentId": 252,
-            "ourScore": 86,
-            "theirScore": 95
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 70,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 70,
-            "theirScore": 79
-          },
-          {
-            "isVictory": true,
-            "first": 76,
-            "second": 60,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 76,
-            "theirScore": 60
-          },
-          {
-            "isVictory": false,
-            "first": 67,
-            "second": 54,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 54,
-            "theirScore": 67
-          },
-          {
-            "isVictory": false,
-            "first": 59,
-            "second": 53,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 53,
-            "theirScore": 59
-          },
-          {
-            "isVictory": true,
-            "first": 78,
-            "second": 77,
-            "opponentName": "Clemson",
-            "opponentId": 228,
-            "ourScore": 78,
-            "theirScore": 77
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 70,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 70,
-            "theirScore": 79
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 64,
-            "opponentName": "Duke",
-            "opponentId": 150,
-            "ourScore": 64,
-            "theirScore": 79
-          },
-          {
-            "isVictory": true,
-            "first": 74,
-            "second": 69,
-            "opponentName": "Duke",
-            "opponentId": 150,
-            "ourScore": 74,
-            "theirScore": 69
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 65,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 73,
-            "theirScore": 65
-          },
-          {
-            "isVictory": true,
-            "first": 84,
-            "second": 76,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 84,
-            "theirScore": 76
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "name": "Texas Tech Red Raiders",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2641",
-        "id": 2641,
-        "tournamentTeamsPlayed": 12,
-        "tournamentTeamsDefeated": 6,
-        "tournamentTeamsPointDifferential": -7,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 78,
-            "second": 67,
-            "opponentName": "Texas",
-            "opponentId": 251,
-            "ourScore": 78,
-            "theirScore": 67
-          },
-          {
-            "isVictory": false,
-            "first": 77,
-            "second": 54,
-            "opponentName": "Houston",
-            "opponentId": 248,
-            "ourScore": 54,
-            "theirScore": 77
-          },
-          {
-            "isVictory": true,
-            "first": 85,
-            "second": 78,
-            "opponentName": "BYU",
-            "opponentId": 252,
-            "ourScore": 85,
-            "theirScore": 78
-          },
-          {
-            "isVictory": false,
-            "first": 85,
-            "second": 78,
-            "opponentName": "TCU",
-            "opponentId": 2628,
-            "ourScore": 78,
-            "theirScore": 85
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 73,
-            "opponentName": "Baylor",
-            "opponentId": 239,
-            "ourScore": 73,
-            "theirScore": 79
-          },
-          {
-            "isVictory": true,
-            "first": 79,
-            "second": 50,
-            "opponentName": "Kansas",
-            "opponentId": 2305,
-            "ourScore": 79,
-            "theirScore": 50
-          },
-          {
-            "isVictory": false,
-            "first": 82,
-            "second": 74,
-            "opponentName": "Iowa State",
-            "opponentId": 66,
-            "ourScore": 74,
-            "theirScore": 82
-          },
-          {
-            "isVictory": true,
-            "first": 82,
-            "second": 81,
-            "opponentName": "TCU",
-            "opponentId": 2628,
-            "ourScore": 82,
-            "theirScore": 81
-          },
-          {
-            "isVictory": false,
-            "first": 81,
-            "second": 69,
-            "opponentName": "Texas",
-            "opponentId": 251,
-            "ourScore": 69,
-            "theirScore": 81
-          },
-          {
-            "isVictory": true,
-            "first": 78,
-            "second": 68,
-            "opponentName": "Baylor",
-            "opponentId": 239,
-            "ourScore": 78,
-            "theirScore": 68
-          },
-          {
-            "isVictory": true,
-            "first": 81,
-            "second": 67,
-            "opponentName": "BYU",
-            "opponentId": 252,
-            "ourScore": 81,
-            "theirScore": 67
-          },
-          {
-            "isVictory": false,
-            "first": 82,
-            "second": 59,
-            "opponentName": "Houston",
-            "opponentId": 248,
-            "ourScore": 59,
-            "theirScore": 82
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "rank": 14,
-        "name": "Oakland Golden Grizzlies",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2473",
-        "id": 2473,
-        "tournamentTeamsPlayed": 4,
-        "tournamentTeamsDefeated": 0,
-        "tournamentTeamsPointDifferential": -60,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 64,
-            "second": 53,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 53,
-            "theirScore": 64
-          },
-          {
-            "isVictory": false,
-            "first": 85,
-            "second": 77,
-            "opponentName": "Drake",
-            "opponentId": 2181,
-            "ourScore": 77,
-            "theirScore": 85
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 62,
-            "opponentName": "Michigan State",
-            "opponentId": 127,
-            "ourScore": 62,
-            "theirScore": 79
-          },
-          {
-            "isVictory": false,
-            "first": 91,
-            "second": 67,
-            "opponentName": "Dayton",
-            "opponentId": 2168,
-            "ourScore": 67,
-            "theirScore": 91
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "name": "Kentucky Wildcats",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/96",
-        "id": 96,
-        "tournamentTeamsPlayed": 14,
-        "tournamentTeamsDefeated": 7,
-        "tournamentTeamsPointDifferential": 3,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 89,
-            "second": 84,
-            "opponentName": "Kansas",
-            "opponentId": 2305,
-            "ourScore": 84,
-            "theirScore": 89
-          },
-          {
-            "isVictory": true,
-            "first": 87,
-            "second": 83,
-            "opponentName": "North Carolina",
-            "opponentId": 153,
-            "ourScore": 87,
-            "theirScore": 83
-          },
-          {
-            "isVictory": true,
-            "first": 87,
-            "second": 85,
-            "opponentName": "Florida",
-            "opponentId": 57,
-            "ourScore": 87,
-            "theirScore": 85
-          },
-          {
-            "isVictory": false,
-            "first": 97,
-            "second": 92,
-            "opponentName": "Texas A&M",
-            "opponentId": 245,
-            "ourScore": 92,
-            "theirScore": 97
-          },
-          {
-            "isVictory": true,
-            "first": 90,
-            "second": 77,
-            "opponentName": "Mississippi State",
-            "opponentId": 344,
-            "ourScore": 90,
-            "theirScore": 77
-          },
-          {
-            "isVictory": false,
-            "first": 79,
-            "second": 62,
-            "opponentName": "South Carolina",
-            "opponentId": 2579,
-            "ourScore": 62,
-            "theirScore": 79
-          },
-          {
-            "isVictory": false,
-            "first": 94,
-            "second": 91,
-            "opponentName": "Florida",
-            "opponentId": 57,
-            "ourScore": 91,
-            "theirScore": 94
-          },
-          {
-            "isVictory": false,
-            "first": 103,
-            "second": 92,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 92,
-            "theirScore": 103
-          },
-          {
-            "isVictory": false,
-            "first": 89,
-            "second": 85,
-            "opponentName": "Gonzaga",
-            "opponentId": 2250,
-            "ourScore": 85,
-            "theirScore": 89
-          },
-          {
-            "isVictory": true,
-            "first": 70,
-            "second": 59,
-            "opponentName": "Auburn",
-            "opponentId": 2,
-            "ourScore": 70,
-            "theirScore": 59
-          },
-          {
-            "isVictory": true,
-            "first": 117,
-            "second": 95,
-            "opponentName": "Alabama",
-            "opponentId": 333,
-            "ourScore": 117,
-            "theirScore": 95
-          },
-          {
-            "isVictory": true,
-            "first": 91,
-            "second": 89,
-            "opponentName": "Mississippi State",
-            "opponentId": 344,
-            "ourScore": 91,
-            "theirScore": 89
-          },
-          {
-            "isVictory": true,
-            "first": 85,
-            "second": 81,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 85,
-            "theirScore": 81
-          },
-          {
-            "isVictory": false,
-            "first": 97,
-            "second": 87,
-            "opponentName": "Texas A&M",
-            "opponentId": 245,
-            "ourScore": 87,
-            "theirScore": 97
-          }
-        ]
-      }
-    ]
-  ],
-  [
-    [
-      {"rank": 0, "name": "TBD", "id": null},
-      {
-        "rank": 7,
-        "name": "Florida Gators",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/57",
-        "id": 57,
-        "tournamentTeamsPlayed": 15,
-        "tournamentTeamsDefeated": 7,
-        "tournamentTeamsPointDifferential": 45,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 73,
-            "second": 70,
-            "opponentName": "Virginia",
-            "opponentId": 258,
-            "ourScore": 70,
-            "theirScore": 73
-          },
-          {
-            "isVictory": false,
-            "first": 95,
-            "second": 91,
-            "opponentName": "Baylor",
-            "opponentId": 239,
-            "ourScore": 91,
-            "theirScore": 95
-          },
-          {
-            "isVictory": true,
-            "first": 96,
-            "second": 57,
-            "opponentName": "Grambling",
-            "opponentId": 2755,
-            "ourScore": 96,
-            "theirScore": 57
-          },
-          {
-            "isVictory": false,
-            "first": 87,
-            "second": 85,
-            "opponentName": "Kentucky",
-            "opponentId": 96,
-            "ourScore": 85,
-            "theirScore": 87
-          },
-          {
-            "isVictory": false,
-            "first": 85,
-            "second": 66,
-            "opponentName": "Tennessee",
-            "opponentId": 2633,
-            "ourScore": 66,
-            "theirScore": 85
-          },
-          {
-            "isVictory": true,
-            "first": 79,
-            "second": 70,
-            "opponentName": "Mississippi State",
-            "opponentId": 344,
-            "ourScore": 79,
-            "theirScore": 70
-          },
-          {
-            "isVictory": true,
-            "first": 94,
-            "second": 91,
-            "opponentName": "Kentucky",
-            "opponentId": 96,
-            "ourScore": 94,
-            "theirScore": 91
-          },
-          {
-            "isVictory": false,
-            "first": 67,
-            "second": 66,
-            "opponentName": "Texas A&M",
-            "opponentId": 245,
-            "ourScore": 66,
-            "theirScore": 67
-          },
-          {
-            "isVictory": true,
-            "first": 81,
-            "second": 65,
-            "opponentName": "Auburn",
-            "opponentId": 2,
-            "ourScore": 81,
-            "theirScore": 65
-          },
-          {
-            "isVictory": false,
-            "first": 98,
-            "second": 93,
-            "opponentName": "Alabama",
-            "opponentId": 333,
-            "ourScore": 93,
-            "theirScore": 98
-          },
-          {
-            "isVictory": false,
-            "first": 82,
-            "second": 76,
-            "opponentName": "South Carolina",
-            "opponentId": 2579,
-            "ourScore": 76,
-            "theirScore": 82
-          },
-          {
-            "isVictory": true,
-            "first": 105,
-            "second": 87,
-            "opponentName": "Alabama",
-            "opponentId": 333,
-            "ourScore": 105,
-            "theirScore": 87
-          },
-          {
-            "isVictory": true,
-            "first": 102,
-            "second": 88,
-            "opponentName": "Alabama",
-            "opponentId": 333,
-            "ourScore": 102,
-            "theirScore": 88
-          },
-          {
-            "isVictory": true,
-            "first": 95,
-            "second": 90,
-            "opponentName": "Texas A&M",
-            "opponentId": 245,
-            "ourScore": 95,
-            "theirScore": 90
-          },
-          {
-            "isVictory": false,
-            "first": 86,
-            "second": 67,
-            "opponentName": "Auburn",
-            "opponentId": 2,
-            "ourScore": 67,
-            "theirScore": 86
-          }
-        ]
-      }
-    ],
-    [
-      {
-        "rank": 15,
-        "name": "Western Kentucky Hilltoppers",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/98",
-        "id": 98,
-        "tournamentTeamsPlayed": 0,
-        "tournamentTeamsDefeated": 0,
-        "tournamentTeamsPointDifferential": 0,
-        "tournamentTeamsResultsLog": []
-      },
-      {
-        "rank": 2,
-        "name": "Marquette Golden Eagles",
-        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/269",
-        "id": 269,
-        "tournamentTeamsPlayed": 10,
-        "tournamentTeamsDefeated": 4,
-        "tournamentTeamsPointDifferential": -32,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 71,
-            "second": 64,
-            "opponentName": "Illinois",
-            "opponentId": 356,
-            "ourScore": 71,
-            "theirScore": 64
-          },
-          {
-            "isVictory": true,
-            "first": 73,
-            "second": 59,
-            "opponentName": "Kansas",
-            "opponentId": 2305,
-            "ourScore": 73,
-            "theirScore": 59
-          },
-          {
-            "isVictory": false,
-            "first": 78,
-            "second": 75,
-            "opponentName": "Purdue",
-            "opponentId": 2509,
-            "ourScore": 75,
-            "theirScore": 78
-          },
-          {
-            "isVictory": false,
-            "first": 75,
-            "second": 64,
-            "opponentName": "Wisconsin",
-            "opponentId": 275,
-            "ourScore": 64,
-            "theirScore": 75
-          },
-          {
-            "isVictory": true,
-            "first": 86,
-            "second": 65,
-            "opponentName": "Texas",
-            "opponentId": 251,
-            "ourScore": 86,
-            "theirScore": 65
-          },
-          {
-            "isVictory": true,
-            "first": 72,
-            "second": 67,
-            "opponentName": "Creighton",
-            "opponentId": 156,
-            "ourScore": 72,
-            "theirScore": 67
-          },
-          {
-            "isVictory": false,
-            "first": 81,
-            "second": 53,
-            "opponentName": "UConn",
-            "opponentId": 41,
-            "ourScore": 53,
-            "theirScore": 81
-          },
-          {
-            "isVictory": false,
-            "first": 89,
-            "second": 75,
-            "opponentName": "Creighton",
-            "opponentId": 156,
-            "ourScore": 75,
-            "theirScore": 89
-          },
-          {
-            "isVictory": false,
-            "first": 74,
-            "second": 67,
-            "opponentName": "UConn",
-            "opponentId": 41,
-            "ourScore": 67,
-            "theirScore": 74
-          },
-          {
-            "isVictory": false,
-            "first": 73,
-            "second": 57,
-            "opponentName": "UConn",
-            "opponentId": 41,
-            "ourScore": 57,
-            "theirScore": 73
-          }
-        ]
-      }
-    ]
-  ],
-  [
-    [
       {"rank": 0, "name": "TBD", "id": null},
       {
         "rank": 1,
@@ -4353,6 +2940,1419 @@
             "opponentId": 2483,
             "ourScore": 59,
             "theirScore": 67
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "rank": 16,
+        "name": "Longwood Lancers",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2344",
+        "id": 2344,
+        "tournamentTeamsPlayed": 1,
+        "tournamentTeamsDefeated": 0,
+        "tournamentTeamsPointDifferential": -9,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 78,
+            "second": 69,
+            "opponentName": "Dayton",
+            "opponentId": 2168,
+            "ourScore": 69,
+            "theirScore": 78
+          }
+        ]
+      },
+      {
+        "rank": 1,
+        "name": "Houston Cougars",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/248",
+        "id": 248,
+        "tournamentTeamsPlayed": 16,
+        "tournamentTeamsDefeated": 12,
+        "tournamentTeamsPointDifferential": 140,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 79,
+            "second": 48,
+            "opponentName": "Stetson",
+            "opponentId": 56,
+            "ourScore": 79,
+            "theirScore": 48
+          },
+          {
+            "isVictory": true,
+            "first": 69,
+            "second": 55,
+            "opponentName": "Dayton",
+            "opponentId": 2168,
+            "ourScore": 69,
+            "theirScore": 55
+          },
+          {
+            "isVictory": true,
+            "first": 70,
+            "second": 66,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 70,
+            "theirScore": 66
+          },
+          {
+            "isVictory": false,
+            "first": 57,
+            "second": 53,
+            "opponentName": "Iowa State",
+            "opponentId": 66,
+            "ourScore": 53,
+            "theirScore": 57
+          },
+          {
+            "isVictory": false,
+            "first": 68,
+            "second": 67,
+            "opponentName": "TCU",
+            "opponentId": 2628,
+            "ourScore": 67,
+            "theirScore": 68
+          },
+          {
+            "isVictory": true,
+            "first": 77,
+            "second": 54,
+            "opponentName": "Texas Tech",
+            "opponentId": 2641,
+            "ourScore": 77,
+            "theirScore": 54
+          },
+          {
+            "isVictory": true,
+            "first": 75,
+            "second": 68,
+            "opponentName": "BYU",
+            "opponentId": 252,
+            "ourScore": 75,
+            "theirScore": 68
+          },
+          {
+            "isVictory": true,
+            "first": 76,
+            "second": 72,
+            "opponentName": "Texas",
+            "opponentId": 251,
+            "ourScore": 76,
+            "theirScore": 72
+          },
+          {
+            "isVictory": false,
+            "first": 78,
+            "second": 65,
+            "opponentName": "Kansas",
+            "opponentId": 2305,
+            "ourScore": 65,
+            "theirScore": 78
+          },
+          {
+            "isVictory": true,
+            "first": 82,
+            "second": 61,
+            "opponentName": "Texas",
+            "opponentId": 251,
+            "ourScore": 82,
+            "theirScore": 61
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 65,
+            "opponentName": "Iowa State",
+            "opponentId": 66,
+            "ourScore": 73,
+            "theirScore": 65
+          },
+          {
+            "isVictory": true,
+            "first": 82,
+            "second": 76,
+            "opponentName": "Baylor",
+            "opponentId": 239,
+            "ourScore": 82,
+            "theirScore": 76
+          },
+          {
+            "isVictory": true,
+            "first": 76,
+            "second": 46,
+            "opponentName": "Kansas",
+            "opponentId": 2305,
+            "ourScore": 76,
+            "theirScore": 46
+          },
+          {
+            "isVictory": true,
+            "first": 60,
+            "second": 45,
+            "opponentName": "TCU",
+            "opponentId": 2628,
+            "ourScore": 60,
+            "theirScore": 45
+          },
+          {
+            "isVictory": true,
+            "first": 82,
+            "second": 59,
+            "opponentName": "Texas Tech",
+            "opponentId": 2641,
+            "ourScore": 82,
+            "theirScore": 59
+          },
+          {
+            "isVictory": false,
+            "first": 69,
+            "second": 41,
+            "opponentName": "Iowa State",
+            "opponentId": 66,
+            "ourScore": 41,
+            "theirScore": 69
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "rank": 9,
+        "name": "Texas A&M Aggies",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/245",
+        "id": 245,
+        "tournamentTeamsPlayed": 14,
+        "tournamentTeamsDefeated": 6,
+        "tournamentTeamsPointDifferential": -59,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 96,
+            "second": 89,
+            "opponentName": "Florida Atlantic",
+            "opponentId": 2226,
+            "ourScore": 89,
+            "theirScore": 96
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 69,
+            "opponentName": "Iowa State",
+            "opponentId": 66,
+            "ourScore": 73,
+            "theirScore": 69
+          },
+          {
+            "isVictory": false,
+            "first": 59,
+            "second": 47,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 47,
+            "theirScore": 59
+          },
+          {
+            "isVictory": false,
+            "first": 70,
+            "second": 66,
+            "opponentName": "Houston",
+            "opponentId": 248,
+            "ourScore": 66,
+            "theirScore": 70
+          },
+          {
+            "isVictory": false,
+            "first": 66,
+            "second": 55,
+            "opponentName": "Auburn",
+            "opponentId": 2,
+            "ourScore": 55,
+            "theirScore": 66
+          },
+          {
+            "isVictory": true,
+            "first": 97,
+            "second": 92,
+            "opponentName": "Kentucky",
+            "opponentId": 96,
+            "ourScore": 97,
+            "theirScore": 92
+          },
+          {
+            "isVictory": true,
+            "first": 67,
+            "second": 66,
+            "opponentName": "Florida",
+            "opponentId": 57,
+            "ourScore": 67,
+            "theirScore": 66
+          },
+          {
+            "isVictory": true,
+            "first": 85,
+            "second": 69,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 85,
+            "theirScore": 69
+          },
+          {
+            "isVictory": false,
+            "first": 100,
+            "second": 75,
+            "opponentName": "Alabama",
+            "opponentId": 333,
+            "ourScore": 75,
+            "theirScore": 100
+          },
+          {
+            "isVictory": false,
+            "first": 86,
+            "second": 51,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 51,
+            "theirScore": 86
+          },
+          {
+            "isVictory": false,
+            "first": 70,
+            "second": 68,
+            "opponentName": "South Carolina",
+            "opponentId": 2579,
+            "ourScore": 68,
+            "theirScore": 70
+          },
+          {
+            "isVictory": true,
+            "first": 75,
+            "second": 69,
+            "opponentName": "Mississippi State",
+            "opponentId": 344,
+            "ourScore": 75,
+            "theirScore": 69
+          },
+          {
+            "isVictory": true,
+            "first": 97,
+            "second": 87,
+            "opponentName": "Kentucky",
+            "opponentId": 96,
+            "ourScore": 97,
+            "theirScore": 87
+          },
+          {
+            "isVictory": false,
+            "first": 95,
+            "second": 90,
+            "opponentName": "Florida",
+            "opponentId": 57,
+            "ourScore": 90,
+            "theirScore": 95
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Nebraska Cornhuskers",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/158",
+        "id": 158,
+        "tournamentTeamsPlayed": 10,
+        "tournamentTeamsDefeated": 5,
+        "tournamentTeamsPointDifferential": -24,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 89,
+            "second": 79,
+            "opponentName": "Duquesne",
+            "opponentId": 2184,
+            "ourScore": 89,
+            "theirScore": 79
+          },
+          {
+            "isVictory": false,
+            "first": 89,
+            "second": 60,
+            "opponentName": "Creighton",
+            "opponentId": 156,
+            "ourScore": 60,
+            "theirScore": 89
+          },
+          {
+            "isVictory": true,
+            "first": 77,
+            "second": 70,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 77,
+            "theirScore": 70
+          },
+          {
+            "isVictory": false,
+            "first": 88,
+            "second": 72,
+            "opponentName": "Wisconsin",
+            "opponentId": 275,
+            "ourScore": 72,
+            "theirScore": 88
+          },
+          {
+            "isVictory": true,
+            "first": 88,
+            "second": 72,
+            "opponentName": "Purdue",
+            "opponentId": 2509,
+            "ourScore": 88,
+            "theirScore": 72
+          },
+          {
+            "isVictory": true,
+            "first": 75,
+            "second": 69,
+            "opponentName": "Northwestern",
+            "opponentId": 77,
+            "ourScore": 75,
+            "theirScore": 69
+          },
+          {
+            "isVictory": true,
+            "first": 80,
+            "second": 72,
+            "opponentName": "Wisconsin",
+            "opponentId": 275,
+            "ourScore": 80,
+            "theirScore": 72
+          },
+          {
+            "isVictory": false,
+            "first": 87,
+            "second": 84,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 84,
+            "theirScore": 87
+          },
+          {
+            "isVictory": false,
+            "first": 80,
+            "second": 68,
+            "opponentName": "Northwestern",
+            "opponentId": 77,
+            "ourScore": 68,
+            "theirScore": 80
+          },
+          {
+            "isVictory": false,
+            "first": 98,
+            "second": 87,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 87,
+            "theirScore": 98
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "rank": 12,
+        "name": "James Madison Dukes",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/256",
+        "id": 256,
+        "tournamentTeamsPlayed": 2,
+        "tournamentTeamsDefeated": 2,
+        "tournamentTeamsPointDifferential": 17,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 79,
+            "second": 76,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 79,
+            "theirScore": 76
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 59,
+            "opponentName": "Akron",
+            "opponentId": 2006,
+            "ourScore": 73,
+            "theirScore": 59
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Wisconsin Badgers",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/275",
+        "id": 275,
+        "tournamentTeamsPlayed": 15,
+        "tournamentTeamsDefeated": 8,
+        "tournamentTeamsPointDifferential": 26,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 80,
+            "second": 70,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 70,
+            "theirScore": 80
+          },
+          {
+            "isVictory": true,
+            "first": 65,
+            "second": 41,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 65,
+            "theirScore": 41
+          },
+          {
+            "isVictory": true,
+            "first": 75,
+            "second": 64,
+            "opponentName": "Marquette",
+            "opponentId": 269,
+            "ourScore": 75,
+            "theirScore": 64
+          },
+          {
+            "isVictory": true,
+            "first": 70,
+            "second": 57,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 70,
+            "theirScore": 57
+          },
+          {
+            "isVictory": false,
+            "first": 98,
+            "second": 73,
+            "opponentName": "Arizona",
+            "opponentId": 12,
+            "ourScore": 73,
+            "theirScore": 98
+          },
+          {
+            "isVictory": true,
+            "first": 88,
+            "second": 72,
+            "opponentName": "Nebraska",
+            "opponentId": 158,
+            "ourScore": 88,
+            "theirScore": 72
+          },
+          {
+            "isVictory": true,
+            "first": 71,
+            "second": 63,
+            "opponentName": "Northwestern",
+            "opponentId": 77,
+            "ourScore": 71,
+            "theirScore": 63
+          },
+          {
+            "isVictory": true,
+            "first": 81,
+            "second": 66,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 81,
+            "theirScore": 66
+          },
+          {
+            "isVictory": false,
+            "first": 80,
+            "second": 72,
+            "opponentName": "Nebraska",
+            "opponentId": 158,
+            "ourScore": 72,
+            "theirScore": 80
+          },
+          {
+            "isVictory": false,
+            "first": 75,
+            "second": 69,
+            "opponentName": "Purdue",
+            "opponentId": 2509,
+            "ourScore": 69,
+            "theirScore": 75
+          },
+          {
+            "isVictory": false,
+            "first": 91,
+            "second": 83,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 83,
+            "theirScore": 91
+          },
+          {
+            "isVictory": false,
+            "first": 78,
+            "second": 70,
+            "opponentName": "Purdue",
+            "opponentId": 2509,
+            "ourScore": 70,
+            "theirScore": 78
+          },
+          {
+            "isVictory": true,
+            "first": 70,
+            "second": 61,
+            "opponentName": "Northwestern",
+            "opponentId": 77,
+            "ourScore": 70,
+            "theirScore": 61
+          },
+          {
+            "isVictory": true,
+            "first": 76,
+            "second": 75,
+            "opponentName": "Purdue",
+            "opponentId": 2509,
+            "ourScore": 76,
+            "theirScore": 75
+          },
+          {
+            "isVictory": false,
+            "first": 93,
+            "second": 87,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 87,
+            "theirScore": 93
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "rank": 13,
+        "name": "Vermont Catamounts",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/261",
+        "id": 261,
+        "tournamentTeamsPlayed": 3,
+        "tournamentTeamsDefeated": 2,
+        "tournamentTeamsPointDifferential": 4,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 64,
+            "opponentName": "Charleston",
+            "opponentId": 232,
+            "ourScore": 73,
+            "theirScore": 64
+          },
+          {
+            "isVictory": true,
+            "first": 66,
+            "second": 65,
+            "opponentName": "Yale",
+            "opponentId": 43,
+            "ourScore": 66,
+            "theirScore": 65
+          },
+          {
+            "isVictory": false,
+            "first": 77,
+            "second": 71,
+            "opponentName": "Colgate",
+            "opponentId": 2142,
+            "ourScore": 71,
+            "theirScore": 77
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Duke Blue Devils",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/150",
+        "id": 150,
+        "tournamentTeamsPlayed": 9,
+        "tournamentTeamsDefeated": 5,
+        "tournamentTeamsPointDifferential": 34,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 78,
+            "second": 73,
+            "opponentName": "Arizona",
+            "opponentId": 12,
+            "ourScore": 73,
+            "theirScore": 78
+          },
+          {
+            "isVictory": true,
+            "first": 74,
+            "second": 65,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 74,
+            "theirScore": 65
+          },
+          {
+            "isVictory": true,
+            "first": 78,
+            "second": 70,
+            "opponentName": "Baylor",
+            "opponentId": 239,
+            "ourScore": 78,
+            "theirScore": 70
+          },
+          {
+            "isVictory": true,
+            "first": 72,
+            "second": 71,
+            "opponentName": "Clemson",
+            "opponentId": 228,
+            "ourScore": 72,
+            "theirScore": 71
+          },
+          {
+            "isVictory": false,
+            "first": 93,
+            "second": 84,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 84,
+            "theirScore": 93
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 48,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 73,
+            "theirScore": 48
+          },
+          {
+            "isVictory": true,
+            "first": 79,
+            "second": 64,
+            "opponentName": "NC State",
+            "opponentId": 152,
+            "ourScore": 79,
+            "theirScore": 64
+          },
+          {
+            "isVictory": false,
+            "first": 84,
+            "second": 79,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 79,
+            "theirScore": 84
+          },
+          {
+            "isVictory": false,
+            "first": 74,
+            "second": 69,
+            "opponentName": "NC State",
+            "opponentId": 152,
+            "ourScore": 69,
+            "theirScore": 74
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "rank": 11,
+        "name": "NC State Wolfpack",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/152",
+        "id": 152,
+        "tournamentTeamsPlayed": 11,
+        "tournamentTeamsDefeated": 5,
+        "tournamentTeamsPointDifferential": -23,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 95,
+            "second": 86,
+            "opponentName": "BYU",
+            "opponentId": 252,
+            "ourScore": 86,
+            "theirScore": 95
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 70,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 70,
+            "theirScore": 79
+          },
+          {
+            "isVictory": true,
+            "first": 76,
+            "second": 60,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 76,
+            "theirScore": 60
+          },
+          {
+            "isVictory": false,
+            "first": 67,
+            "second": 54,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 54,
+            "theirScore": 67
+          },
+          {
+            "isVictory": false,
+            "first": 59,
+            "second": 53,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 53,
+            "theirScore": 59
+          },
+          {
+            "isVictory": true,
+            "first": 78,
+            "second": 77,
+            "opponentName": "Clemson",
+            "opponentId": 228,
+            "ourScore": 78,
+            "theirScore": 77
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 70,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 70,
+            "theirScore": 79
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 64,
+            "opponentName": "Duke",
+            "opponentId": 150,
+            "ourScore": 64,
+            "theirScore": 79
+          },
+          {
+            "isVictory": true,
+            "first": 74,
+            "second": 69,
+            "opponentName": "Duke",
+            "opponentId": 150,
+            "ourScore": 74,
+            "theirScore": 69
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 65,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 73,
+            "theirScore": 65
+          },
+          {
+            "isVictory": true,
+            "first": 84,
+            "second": 76,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 84,
+            "theirScore": 76
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Texas Tech Red Raiders",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2641",
+        "id": 2641,
+        "tournamentTeamsPlayed": 12,
+        "tournamentTeamsDefeated": 6,
+        "tournamentTeamsPointDifferential": -7,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 78,
+            "second": 67,
+            "opponentName": "Texas",
+            "opponentId": 251,
+            "ourScore": 78,
+            "theirScore": 67
+          },
+          {
+            "isVictory": false,
+            "first": 77,
+            "second": 54,
+            "opponentName": "Houston",
+            "opponentId": 248,
+            "ourScore": 54,
+            "theirScore": 77
+          },
+          {
+            "isVictory": true,
+            "first": 85,
+            "second": 78,
+            "opponentName": "BYU",
+            "opponentId": 252,
+            "ourScore": 85,
+            "theirScore": 78
+          },
+          {
+            "isVictory": false,
+            "first": 85,
+            "second": 78,
+            "opponentName": "TCU",
+            "opponentId": 2628,
+            "ourScore": 78,
+            "theirScore": 85
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 73,
+            "opponentName": "Baylor",
+            "opponentId": 239,
+            "ourScore": 73,
+            "theirScore": 79
+          },
+          {
+            "isVictory": true,
+            "first": 79,
+            "second": 50,
+            "opponentName": "Kansas",
+            "opponentId": 2305,
+            "ourScore": 79,
+            "theirScore": 50
+          },
+          {
+            "isVictory": false,
+            "first": 82,
+            "second": 74,
+            "opponentName": "Iowa State",
+            "opponentId": 66,
+            "ourScore": 74,
+            "theirScore": 82
+          },
+          {
+            "isVictory": true,
+            "first": 82,
+            "second": 81,
+            "opponentName": "TCU",
+            "opponentId": 2628,
+            "ourScore": 82,
+            "theirScore": 81
+          },
+          {
+            "isVictory": false,
+            "first": 81,
+            "second": 69,
+            "opponentName": "Texas",
+            "opponentId": 251,
+            "ourScore": 69,
+            "theirScore": 81
+          },
+          {
+            "isVictory": true,
+            "first": 78,
+            "second": 68,
+            "opponentName": "Baylor",
+            "opponentId": 239,
+            "ourScore": 78,
+            "theirScore": 68
+          },
+          {
+            "isVictory": true,
+            "first": 81,
+            "second": 67,
+            "opponentName": "BYU",
+            "opponentId": 252,
+            "ourScore": 81,
+            "theirScore": 67
+          },
+          {
+            "isVictory": false,
+            "first": 82,
+            "second": 59,
+            "opponentName": "Houston",
+            "opponentId": 248,
+            "ourScore": 59,
+            "theirScore": 82
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "rank": 14,
+        "name": "Oakland Golden Grizzlies",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2473",
+        "id": 2473,
+        "tournamentTeamsPlayed": 4,
+        "tournamentTeamsDefeated": 0,
+        "tournamentTeamsPointDifferential": -60,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 64,
+            "second": 53,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 53,
+            "theirScore": 64
+          },
+          {
+            "isVictory": false,
+            "first": 85,
+            "second": 77,
+            "opponentName": "Drake",
+            "opponentId": 2181,
+            "ourScore": 77,
+            "theirScore": 85
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 62,
+            "opponentName": "Michigan State",
+            "opponentId": 127,
+            "ourScore": 62,
+            "theirScore": 79
+          },
+          {
+            "isVictory": false,
+            "first": 91,
+            "second": 67,
+            "opponentName": "Dayton",
+            "opponentId": 2168,
+            "ourScore": 67,
+            "theirScore": 91
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Kentucky Wildcats",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/96",
+        "id": 96,
+        "tournamentTeamsPlayed": 14,
+        "tournamentTeamsDefeated": 7,
+        "tournamentTeamsPointDifferential": 3,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 89,
+            "second": 84,
+            "opponentName": "Kansas",
+            "opponentId": 2305,
+            "ourScore": 84,
+            "theirScore": 89
+          },
+          {
+            "isVictory": true,
+            "first": 87,
+            "second": 83,
+            "opponentName": "North Carolina",
+            "opponentId": 153,
+            "ourScore": 87,
+            "theirScore": 83
+          },
+          {
+            "isVictory": true,
+            "first": 87,
+            "second": 85,
+            "opponentName": "Florida",
+            "opponentId": 57,
+            "ourScore": 87,
+            "theirScore": 85
+          },
+          {
+            "isVictory": false,
+            "first": 97,
+            "second": 92,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 92,
+            "theirScore": 97
+          },
+          {
+            "isVictory": true,
+            "first": 90,
+            "second": 77,
+            "opponentName": "Mississippi State",
+            "opponentId": 344,
+            "ourScore": 90,
+            "theirScore": 77
+          },
+          {
+            "isVictory": false,
+            "first": 79,
+            "second": 62,
+            "opponentName": "South Carolina",
+            "opponentId": 2579,
+            "ourScore": 62,
+            "theirScore": 79
+          },
+          {
+            "isVictory": false,
+            "first": 94,
+            "second": 91,
+            "opponentName": "Florida",
+            "opponentId": 57,
+            "ourScore": 91,
+            "theirScore": 94
+          },
+          {
+            "isVictory": false,
+            "first": 103,
+            "second": 92,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 92,
+            "theirScore": 103
+          },
+          {
+            "isVictory": false,
+            "first": 89,
+            "second": 85,
+            "opponentName": "Gonzaga",
+            "opponentId": 2250,
+            "ourScore": 85,
+            "theirScore": 89
+          },
+          {
+            "isVictory": true,
+            "first": 70,
+            "second": 59,
+            "opponentName": "Auburn",
+            "opponentId": 2,
+            "ourScore": 70,
+            "theirScore": 59
+          },
+          {
+            "isVictory": true,
+            "first": 117,
+            "second": 95,
+            "opponentName": "Alabama",
+            "opponentId": 333,
+            "ourScore": 117,
+            "theirScore": 95
+          },
+          {
+            "isVictory": true,
+            "first": 91,
+            "second": 89,
+            "opponentName": "Mississippi State",
+            "opponentId": 344,
+            "ourScore": 91,
+            "theirScore": 89
+          },
+          {
+            "isVictory": true,
+            "first": 85,
+            "second": 81,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 85,
+            "theirScore": 81
+          },
+          {
+            "isVictory": false,
+            "first": 97,
+            "second": 87,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 87,
+            "theirScore": 97
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {"rank": 0, "name": "TBD", "id": null},
+      {
+        "rank": 7,
+        "name": "Florida Gators",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/57",
+        "id": 57,
+        "tournamentTeamsPlayed": 15,
+        "tournamentTeamsDefeated": 7,
+        "tournamentTeamsPointDifferential": 45,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 73,
+            "second": 70,
+            "opponentName": "Virginia",
+            "opponentId": 258,
+            "ourScore": 70,
+            "theirScore": 73
+          },
+          {
+            "isVictory": false,
+            "first": 95,
+            "second": 91,
+            "opponentName": "Baylor",
+            "opponentId": 239,
+            "ourScore": 91,
+            "theirScore": 95
+          },
+          {
+            "isVictory": true,
+            "first": 96,
+            "second": 57,
+            "opponentName": "Grambling",
+            "opponentId": 2755,
+            "ourScore": 96,
+            "theirScore": 57
+          },
+          {
+            "isVictory": false,
+            "first": 87,
+            "second": 85,
+            "opponentName": "Kentucky",
+            "opponentId": 96,
+            "ourScore": 85,
+            "theirScore": 87
+          },
+          {
+            "isVictory": false,
+            "first": 85,
+            "second": 66,
+            "opponentName": "Tennessee",
+            "opponentId": 2633,
+            "ourScore": 66,
+            "theirScore": 85
+          },
+          {
+            "isVictory": true,
+            "first": 79,
+            "second": 70,
+            "opponentName": "Mississippi State",
+            "opponentId": 344,
+            "ourScore": 79,
+            "theirScore": 70
+          },
+          {
+            "isVictory": true,
+            "first": 94,
+            "second": 91,
+            "opponentName": "Kentucky",
+            "opponentId": 96,
+            "ourScore": 94,
+            "theirScore": 91
+          },
+          {
+            "isVictory": false,
+            "first": 67,
+            "second": 66,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 66,
+            "theirScore": 67
+          },
+          {
+            "isVictory": true,
+            "first": 81,
+            "second": 65,
+            "opponentName": "Auburn",
+            "opponentId": 2,
+            "ourScore": 81,
+            "theirScore": 65
+          },
+          {
+            "isVictory": false,
+            "first": 98,
+            "second": 93,
+            "opponentName": "Alabama",
+            "opponentId": 333,
+            "ourScore": 93,
+            "theirScore": 98
+          },
+          {
+            "isVictory": false,
+            "first": 82,
+            "second": 76,
+            "opponentName": "South Carolina",
+            "opponentId": 2579,
+            "ourScore": 76,
+            "theirScore": 82
+          },
+          {
+            "isVictory": true,
+            "first": 105,
+            "second": 87,
+            "opponentName": "Alabama",
+            "opponentId": 333,
+            "ourScore": 105,
+            "theirScore": 87
+          },
+          {
+            "isVictory": true,
+            "first": 102,
+            "second": 88,
+            "opponentName": "Alabama",
+            "opponentId": 333,
+            "ourScore": 102,
+            "theirScore": 88
+          },
+          {
+            "isVictory": true,
+            "first": 95,
+            "second": 90,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 95,
+            "theirScore": 90
+          },
+          {
+            "isVictory": false,
+            "first": 86,
+            "second": 67,
+            "opponentName": "Auburn",
+            "opponentId": 2,
+            "ourScore": 67,
+            "theirScore": 86
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "rank": 15,
+        "name": "Western Kentucky Hilltoppers",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/98",
+        "id": 98,
+        "tournamentTeamsPlayed": 0,
+        "tournamentTeamsDefeated": 0,
+        "tournamentTeamsPointDifferential": 0,
+        "tournamentTeamsResultsLog": []
+      },
+      {
+        "rank": 2,
+        "name": "Marquette Golden Eagles",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/269",
+        "id": 269,
+        "tournamentTeamsPlayed": 10,
+        "tournamentTeamsDefeated": 4,
+        "tournamentTeamsPointDifferential": -32,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": true,
+            "first": 71,
+            "second": 64,
+            "opponentName": "Illinois",
+            "opponentId": 356,
+            "ourScore": 71,
+            "theirScore": 64
+          },
+          {
+            "isVictory": true,
+            "first": 73,
+            "second": 59,
+            "opponentName": "Kansas",
+            "opponentId": 2305,
+            "ourScore": 73,
+            "theirScore": 59
+          },
+          {
+            "isVictory": false,
+            "first": 78,
+            "second": 75,
+            "opponentName": "Purdue",
+            "opponentId": 2509,
+            "ourScore": 75,
+            "theirScore": 78
+          },
+          {
+            "isVictory": false,
+            "first": 75,
+            "second": 64,
+            "opponentName": "Wisconsin",
+            "opponentId": 275,
+            "ourScore": 64,
+            "theirScore": 75
+          },
+          {
+            "isVictory": true,
+            "first": 86,
+            "second": 65,
+            "opponentName": "Texas",
+            "opponentId": 251,
+            "ourScore": 86,
+            "theirScore": 65
+          },
+          {
+            "isVictory": true,
+            "first": 72,
+            "second": 67,
+            "opponentName": "Creighton",
+            "opponentId": 156,
+            "ourScore": 72,
+            "theirScore": 67
+          },
+          {
+            "isVictory": false,
+            "first": 81,
+            "second": 53,
+            "opponentName": "UConn",
+            "opponentId": 41,
+            "ourScore": 53,
+            "theirScore": 81
+          },
+          {
+            "isVictory": false,
+            "first": 89,
+            "second": 75,
+            "opponentName": "Creighton",
+            "opponentId": 156,
+            "ourScore": 75,
+            "theirScore": 89
+          },
+          {
+            "isVictory": false,
+            "first": 74,
+            "second": 67,
+            "opponentName": "UConn",
+            "opponentId": 41,
+            "ourScore": 67,
+            "theirScore": 74
+          },
+          {
+            "isVictory": false,
+            "first": 73,
+            "second": 57,
+            "opponentName": "UConn",
+            "opponentId": 41,
+            "ourScore": 57,
+            "theirScore": 73
           }
         ]
       }
