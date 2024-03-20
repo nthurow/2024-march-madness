@@ -11,15 +11,10 @@ function calculateWinner(team1, team2) {
     team1.tournamentTeamsPointDifferential > team2.tournamentTeamsPointDifferential ? team1 : team2;
   const teamWithWorseDifferential = teamWithBetterDifferential === team1 ? team2 : team1;
 
-  const team1AverageDifferential = team1.tournamentTeamsPointDifferential / team1.tournamentTeamsPlayed;
-  const team2AverageDifferential = team2.tournamentTeamsPointDifferential / team2.tournamentTeamsPlayed;
-
-  /*
   const teamWithBetterDifferentialAverage =
     teamWithBetterDifferential.tournamentTeamsPointDifferential / teamWithBetterDifferential.tournamentTeamsPlayed;
   const teamWithWorseDifferentialAverage =
     teamWithWorseDifferential.tournamentTeamsPointDifferential / teamWithWorseDifferential.tournamentTeamsPlayed;
-    */
 
   const teamWithMoreWins = team1.tournamentTeamsDefeated > team2.tournamentTeamsDefeated ? team1 : team2;
   const teamWithFewerWins = teamWithMoreWins === team1 ? team2 : team1;
@@ -44,7 +39,6 @@ function calculateWinner(team1, team2) {
     return teamWithWorseDifferential;
   }
 
-  /*
   if (team1.tournamentTeamsPointDifferential !== team2.tournamentTeamsPointDifferential) {
     console.log(
       `${teamWithBetterDifferential.name} wins because their point differential of ${teamWithBetterDifferential.tournamentTeamsPointDifferential} is better than the point differential for ${teamWithWorseDifferential.name} of ${teamWithWorseDifferential.tournamentTeamsPointDifferential}`
@@ -57,32 +51,6 @@ function calculateWinner(team1, team2) {
     return teamWithBetterDifferential;
   } else {
     console.log('The point differential is a tie, moving to first tiebreaker...');
-  }
-  */
-
-  if (team1AverageDifferential !== team2AverageDifferential) {
-    const teamWithBetterAverageDifferential = team1AverageDifferential > team2AverageDifferential ? team1 : team2;
-    const teamWithWorseAverageDifferential = teamWithBetterAverageDifferential === team1 ? team2 : team1;
-
-    const betterDifferential =
-      teamWithBetterAverageDifferential === team1 ? team1AverageDifferential : team2AverageDifferential;
-    const worseDifferential =
-      teamWithBetterAverageDifferential === team1 ? team2AverageDifferential : team1AverageDifferential;
-
-    console.log(
-      `${teamWithBetterAverageDifferential.name} wins because their average point differential of ${betterDifferential} is better than the point differential for ${teamWithWorseAverageDifferential.name} of ${worseDifferential}`
-    );
-
-    if (
-      teamWithWorseAverageDifferential.tournamentTeamsPointDifferential >
-      teamWithBetterAverageDifferential.tournamentTeamsPointDifferential
-    ) {
-      console.log('NOTE: If we were doing plain differential, the result would be reversed!');
-    }
-
-    return teamWithBetterAverageDifferential;
-  } else {
-    console.log('The point differential average is a tie, moving to first tiebreaker...');
   }
 
   if (team1.tournamentTeamsDefeated !== team2.tournamentTeamsDefeated) {
