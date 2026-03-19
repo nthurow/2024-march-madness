@@ -208,13 +208,48 @@ const allTeamsWithStatus = await Promise.all(
 
 console.log(
   JSON.stringify(
-    matchupInfo.map((matchup) => {
-      return matchup.map((team) => {
-        const teamWithStats = allTeamsWithStatus.find((allTeamWithStats) => allTeamWithStats.id === team.id);
+    matchupInfo
+      // Attempt to filter out the play-in games at the bottom of ESPN's tournament page
+      //
+      // Play-in games that have already been played will not have a team id because clicking on the game
+      // leads you to a game recap page rather than a game preview page, and the recap page doesn't have the same elements
+      // as the summary page, meaning our code to identify the team id and schedule doesn't work (which is good, because we want to ignore
+      // these play-in games).  So we can identify these games because neither team will have an id; if it's a valid tournament (non-play-in) game,
+      // then at least one team will have a valid id.  (Even for tournmanent games, one team might not have an id, because the team might be TBD).
+      //
+      // For play-in games that haven't been played yet, we can identify them because both teams will have the same rank
+      .filter((matchup) => {
+        return matchup.some((team) => {
+          return team.id !== undefined && !isNaN(team.id);
+        });
+      })
+      .filter((matchup) => {
+        return matchup[0].rank !== matchup[1].rank;
+      })
+      .map((matchup) => {
+        return matchup.map((team) => {
+          const teamWithStats = allTeamsWithStatus.find((allTeamWithStats) => allTeamWithStats.id === team.id);
 
-        return teamWithStats || team;
-      });
-    })
+          return teamWithStats || team;
+        });
+      })
+      // For TBD teams, just give them the worst point differential possible so that they will not be picked to win
+      .map((matchup) => {
+        return matchup.map((team) => {
+          if (team.id === undefined || isNaN(team.id)) {
+            return {
+              ...team,
+              rank: 17,
+              tournamentTeamsPlayed: -1,
+              tournamentTeamsDefeated: -1,
+              tournamentTeamsPointDifferential: Number.MIN_SAFE_INTEGER,
+              tournamentTeamsResultsLog: []
+            };
+          }
+
+          return team;
+        });
+      })
   )
 );
 /*
