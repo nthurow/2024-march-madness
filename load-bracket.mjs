@@ -57,11 +57,11 @@ const matchupInfo = await Promise.all(
     const matchupHtml = await matchupContent.text();
     const matchupRoot = load(matchupHtml);
 
-    const teamNameAndRank = matchupRoot('div.Gamestrip__Info')
+    const teamNameAndRank = matchupRoot('div.mLASH.VZTD.ZLXw div.mLASH.VZTD.ZLXw')
       .toArray()
       .map((el) => {
-        const rank = matchupRoot(el).find('.ScoreCell__Rank').text();
-        const name = matchupRoot(el).find('.ScoreCell__TeamName').text();
+        const rank = matchupRoot(el).find('.mxQbE.JFXP.VZTD.jWGd.vSsiS.osdYE').text();
+        const name = matchupRoot(el).find('.NzyJW.NMnSM').text();
 
         return {
           rank: +rank,
