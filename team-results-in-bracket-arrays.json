@@ -16,9 +16,9 @@
         "name": "Duke Blue Devils",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/150",
         "id": 150,
-        "tournamentTeamsPlayed": 17,
-        "tournamentTeamsDefeated": 15,
-        "tournamentTeamsPointDifferential": 200,
+        "tournamentTeamsPlayed": 16,
+        "tournamentTeamsDefeated": 14,
+        "tournamentTeamsPointDifferential": 193,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -94,15 +94,6 @@
           },
           {
             "isVictory": true,
-            "first": 82,
-            "second": 75,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 82,
-            "theirScore": 75
-          },
-          {
-            "isVictory": true,
             "first": 83,
             "second": 52,
             "opponentName": "Louisville",
@@ -175,9 +166,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 9,
@@ -542,9 +531,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 13,
@@ -777,9 +764,9 @@
         "name": "Louisville Cardinals",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/97",
         "id": 97,
-        "tournamentTeamsPlayed": 13,
-        "tournamentTeamsDefeated": 4,
-        "tournamentTeamsPointDifferential": -75,
+        "tournamentTeamsPlayed": 10,
+        "tournamentTeamsDefeated": 2,
+        "tournamentTeamsPointDifferential": -83,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -836,24 +823,6 @@
             "theirScore": 83
           },
           {
-            "isVictory": true,
-            "first": 88,
-            "second": 74,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 88,
-            "theirScore": 74
-          },
-          {
-            "isVictory": false,
-            "first": 95,
-            "second": 85,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 85,
-            "theirScore": 95
-          },
-          {
             "isVictory": false,
             "first": 77,
             "second": 74,
@@ -881,15 +850,6 @@
             "theirScore": 89
           },
           {
-            "isVictory": true,
-            "first": 62,
-            "second": 58,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 62,
-            "theirScore": 58
-          },
-          {
             "isVictory": false,
             "first": 78,
             "second": 73,
@@ -900,9 +860,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 14,
@@ -1284,9 +1242,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 15,
@@ -1454,9 +1410,9 @@
         "name": "Long Island University Sharks",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/112358",
         "id": 112358,
-        "tournamentTeamsPlayed": 3,
-        "tournamentTeamsDefeated": 1,
-        "tournamentTeamsPointDifferential": -50,
+        "tournamentTeamsPlayed": 2,
+        "tournamentTeamsDefeated": 0,
+        "tournamentTeamsPointDifferential": -55,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": false,
@@ -1466,15 +1422,6 @@
             "opponentId": 356,
             "ourScore": 58,
             "theirScore": 98
-          },
-          {
-            "isVictory": true,
-            "first": 87,
-            "second": 82,
-            "opponentName": "Lehigh",
-            "opponentId": 2329,
-            "ourScore": 87,
-            "theirScore": 82
           },
           {
             "isVictory": false,
@@ -1642,9 +1589,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 9,
@@ -1937,9 +1882,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 13,
@@ -2411,9 +2354,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 14,
@@ -2691,9 +2632,9 @@
         "name": "Miami Hurricanes",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2390",
         "id": 2390,
-        "tournamentTeamsPlayed": 9,
-        "tournamentTeamsDefeated": 3,
-        "tournamentTeamsPointDifferential": -40,
+        "tournamentTeamsPlayed": 8,
+        "tournamentTeamsDefeated": 2,
+        "tournamentTeamsPointDifferential": -48,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": false,
@@ -2741,15 +2682,6 @@
             "theirScore": 86
           },
           {
-            "isVictory": true,
-            "first": 77,
-            "second": 69,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 77,
-            "theirScore": 69
-          },
-          {
             "isVictory": false,
             "first": 92,
             "second": 89,
@@ -2778,9 +2710,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 15,
@@ -2998,13 +2928,33 @@
   [
     [
       {
-        "rank": 17,
-        "name": "TBD",
-        "id": null,
-        "tournamentTeamsPlayed": -1,
-        "tournamentTeamsDefeated": -1,
-        "tournamentTeamsPointDifferential": -9007199254740991,
-        "tournamentTeamsResultsLog": []
+        "rank": 16,
+        "name": "Prairie View A&M Panthers",
+        "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2504",
+        "id": 2504,
+        "tournamentTeamsPlayed": 2,
+        "tournamentTeamsDefeated": 0,
+        "tournamentTeamsPointDifferential": -47,
+        "tournamentTeamsResultsLog": [
+          {
+            "isVictory": false,
+            "first": 91,
+            "second": 73,
+            "opponentName": "Missouri",
+            "opponentId": 142,
+            "ourScore": 73,
+            "theirScore": 91
+          },
+          {
+            "isVictory": false,
+            "first": 111,
+            "second": 82,
+            "opponentName": "Texas A&M",
+            "opponentId": 245,
+            "ourScore": 82,
+            "theirScore": 111
+          }
+        ]
       },
       {
         "rank": 1,
@@ -3179,9 +3129,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 9,
@@ -3307,9 +3255,9 @@
         "name": "Clemson Tigers",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/228",
         "id": 228,
-        "tournamentTeamsPlayed": 10,
-        "tournamentTeamsDefeated": 5,
-        "tournamentTeamsPointDifferential": -15,
+        "tournamentTeamsPlayed": 9,
+        "tournamentTeamsDefeated": 4,
+        "tournamentTeamsPointDifferential": -19,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -3337,15 +3285,6 @@
             "opponentId": 252,
             "ourScore": 64,
             "theirScore": 67
-          },
-          {
-            "isVictory": true,
-            "first": 74,
-            "second": 70,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 74,
-            "theirScore": 70
           },
           {
             "isVictory": true,
@@ -3441,9 +3380,9 @@
         "name": "Vanderbilt Commodores",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/238",
         "id": 238,
-        "tournamentTeamsPlayed": 18,
-        "tournamentTeamsDefeated": 11,
-        "tournamentTeamsPointDifferential": 76,
+        "tournamentTeamsPlayed": 17,
+        "tournamentTeamsDefeated": 10,
+        "tournamentTeamsPointDifferential": 57,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -3471,15 +3410,6 @@
             "opponentId": 2608,
             "ourScore": 96,
             "theirScore": 71
-          },
-          {
-            "isVictory": true,
-            "first": 88,
-            "second": 69,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 88,
-            "theirScore": 69
           },
           {
             "isVictory": true,
@@ -3609,9 +3539,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 13,
@@ -3817,9 +3745,9 @@
         "name": "North Carolina Tar Heels",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/153",
         "id": 153,
-        "tournamentTeamsPlayed": 12,
+        "tournamentTeamsPlayed": 11,
         "tournamentTeamsDefeated": 7,
-        "tournamentTeamsPointDifferential": -23,
+        "tournamentTeamsPointDifferential": -9,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -3856,15 +3784,6 @@
             "opponentId": 194,
             "ourScore": 71,
             "theirScore": 70
-          },
-          {
-            "isVictory": false,
-            "first": 97,
-            "second": 83,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 83,
-            "theirScore": 97
           },
           {
             "isVictory": true,
@@ -3931,9 +3850,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 14,
@@ -4128,9 +4045,9 @@
         "name": "Texas A&M Aggies",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/245",
         "id": 245,
-        "tournamentTeamsPlayed": 13,
+        "tournamentTeamsPlayed": 12,
         "tournamentTeamsDefeated": 4,
-        "tournamentTeamsPointDifferential": -28,
+        "tournamentTeamsPointDifferential": -15,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": false,
@@ -4140,15 +4057,6 @@
             "opponentId": 2116,
             "ourScore": 74,
             "theirScore": 86
-          },
-          {
-            "isVictory": false,
-            "first": 93,
-            "second": 80,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 80,
-            "theirScore": 93
           },
           {
             "isVictory": true,
@@ -4325,9 +4233,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 15,
@@ -4344,19 +4250,10 @@
         "name": "Houston Cougars",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/248",
         "id": 248,
-        "tournamentTeamsPlayed": 14,
-        "tournamentTeamsDefeated": 8,
-        "tournamentTeamsPointDifferential": 69,
+        "tournamentTeamsPlayed": 13,
+        "tournamentTeamsDefeated": 7,
+        "tournamentTeamsPointDifferential": 51,
         "tournamentTeamsResultsLog": [
-          {
-            "isVictory": true,
-            "first": 75,
-            "second": 57,
-            "opponentName": "Lehigh",
-            "opponentId": 2329,
-            "ourScore": 75,
-            "theirScore": 57
-          },
           {
             "isVictory": false,
             "first": 76,
@@ -4682,9 +4579,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 9,
@@ -4861,9 +4756,9 @@
         "name": "Akron Zips",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2006",
         "id": 2006,
-        "tournamentTeamsPlayed": 3,
+        "tournamentTeamsPlayed": 2,
         "tournamentTeamsDefeated": 0,
-        "tournamentTeamsPointDifferential": -31,
+        "tournamentTeamsPointDifferential": -28,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": false,
@@ -4873,15 +4768,6 @@
             "opponentId": 2509,
             "ourScore": 79,
             "theirScore": 97
-          },
-          {
-            "isVictory": false,
-            "first": 76,
-            "second": 73,
-            "opponentName": "Miami (OH)",
-            "opponentId": 193,
-            "ourScore": 73,
-            "theirScore": 76
           },
           {
             "isVictory": false,
@@ -5031,9 +4917,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 13,
@@ -5423,38 +5307,26 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 14,
         "name": "Wright State Raiders",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2750",
         "id": 2750,
-        "tournamentTeamsPlayed": 1,
+        "tournamentTeamsPlayed": 0,
         "tournamentTeamsDefeated": 0,
-        "tournamentTeamsPointDifferential": -7,
-        "tournamentTeamsResultsLog": [
-          {
-            "isVictory": false,
-            "first": 83,
-            "second": 76,
-            "opponentName": "Miami (OH)",
-            "opponentId": 193,
-            "ourScore": 76,
-            "theirScore": 83
-          }
-        ]
+        "tournamentTeamsPointDifferential": 0,
+        "tournamentTeamsResultsLog": []
       },
       {
         "rank": 3,
         "name": "Virginia Cavaliers",
         "schedule": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/258",
         "id": 258,
-        "tournamentTeamsPlayed": 10,
-        "tournamentTeamsDefeated": 7,
-        "tournamentTeamsPointDifferential": 51,
+        "tournamentTeamsPlayed": 9,
+        "tournamentTeamsDefeated": 6,
+        "tournamentTeamsPointDifferential": 47,
         "tournamentTeamsResultsLog": [
           {
             "isVictory": true,
@@ -5482,15 +5354,6 @@
             "opponentId": 97,
             "ourScore": 79,
             "theirScore": 70
-          },
-          {
-            "isVictory": true,
-            "first": 72,
-            "second": 68,
-            "opponentName": "SMU",
-            "opponentId": 2567,
-            "ourScore": 72,
-            "theirScore": 68
           },
           {
             "isVictory": false,
@@ -5817,9 +5680,7 @@
           }
         ]
       }
-    ]
-  ],
-  [
+    ],
     [
       {
         "rank": 15,
